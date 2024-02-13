@@ -1,7 +1,6 @@
 pandas
 xarray
 numpy
-urllib
 requests
 matplotlib
 thredds_crawler.crawl
