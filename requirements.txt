@@ -3,4 +3,4 @@ xarray
 numpy
 requests
 matplotlib
-thredds_crawler.crawl
+thredds_crawler
